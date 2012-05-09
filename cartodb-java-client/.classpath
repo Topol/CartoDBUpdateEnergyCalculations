@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="build" path="src"/>
+	<classpathentry kind="var" path="JRE_LIB" sourcepath="JRE_SRC"/>
+	<classpathentry kind="lib" path="/Users/Arindam/Desktop/CartoDbClient/Vizzuality-cartodb-java-client-fc68a58/lib/commons-codec-1.6.jar"/>
+	<classpathentry kind="lib" path="/Users/Arindam/Desktop/CartoDbClient/Vizzuality-cartodb-java-client-fc68a58/lib/commons-io-2.1.jar"/>
+	<classpathentry kind="lib" path="/Users/Arindam/Desktop/CartoDbClient/Vizzuality-cartodb-java-client-fc68a58/lib/scribe-1.2.3.jar"/>
+	<classpathentry kind="lib" path="lib/commons-codec-1.6.jar"/>
+	<classpathentry kind="lib" path="lib/commons-io-2.1.jar"/>
+	<classpathentry kind="lib" path="lib/scribe-1.2.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
